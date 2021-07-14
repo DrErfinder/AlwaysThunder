@@ -1,0 +1,2 @@
+scoreboard objectives remove at_last_weather
+schedule clear always_thunder:set_weather
