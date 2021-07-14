@@ -8,7 +8,7 @@ Rain sucks! Why can't it thunder? With this datapack rain always turns into a th
 ## Other Features
 * Basicly no impact on performance: Commands are only executed every 5 seconds.
 * Please note that due to this 👆 and how minecraft weather works it might take a few seconnds to set the Weather to Sunny/Thunder if it starts raining.
-* Even works on Servers with no Players online. 
+* Even works on Servers if no Players online. 
 
 ## Installation ✔️
 Download the latest release from the releases Section on Github or from Planet Minecraft and place the file `AlwaysThunder.zip` in your datapacks folder.
