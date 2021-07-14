@@ -6,7 +6,7 @@ Rain sucks! Why can't it thunder? With this datapack rain always turns into a th
 * If a Thunderstrom turns into normal rain, the weather immediately becomes sunny.
 
 ## Other Features
-* Basicly no impact on performance: Commands are only runn every 5 seconds.
+* Basicly no impact on performance: Commands are only executed every 5 seconds.
 * Please note that due to this 👆 and how minecraft weather works it might take a few seconnds to set the Weather to Sunny/Thunder if it starts raining.
 * Even works on Servers with no Players online. 
 
